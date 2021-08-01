@@ -2,7 +2,15 @@
 
 > A dark theme for [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal).
 
+# Themes
+
+## Night Berserker
+![Screenshot](./screenshot-dark.png)
+![Screenshot](./screenshot-dark2.png)
+
+## Classic VK
 ![Screenshot](./screenshot.png)
+![Screenshot](./screenshot2.png)
 
 ## Install
 ```bash install.sh```
