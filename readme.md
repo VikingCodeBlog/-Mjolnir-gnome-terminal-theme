@@ -1,12 +1,11 @@
-# Dracula for [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal)
+# Mjolnir for [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal)
 
 > A dark theme for [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
-
-All instructions can be found at [draculatheme.com/gnome-terminal](https://draculatheme.com/gnome-terminal).
+```bash install.sh```
 
 ## Credits
 
@@ -15,3 +14,6 @@ This colorscheme is based on the well-known _Solarized Dark_ colorscheme for the
 ## License
 
 [MIT License](./LICENSE)
+
+## Test
+Tested in Gnome Shell and ZSH
